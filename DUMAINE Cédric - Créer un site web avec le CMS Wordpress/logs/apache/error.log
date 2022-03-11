@@ -36,3 +36,22 @@ AH00558: httpd.exe: Could not reliably determine the server's fully qualified do
 AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::43e:512c:a782:e2ee. Set the 'ServerName' directive globally to suppress this message
 AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::43e:512c:a782:e2ee. Set the 'ServerName' directive globally to suppress this message
 [Thu Mar 10 06:48:26.886189 2022] [mpm_winnt:notice] [pid 4668:tid 736] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::3c84:7d67:a782:e2ee. Set the 'ServerName' directive globally to suppress this message
+[Fri Mar 11 08:18:04.996749 2022] [core:warn] [pid 4664:tid 700] AH00098: pid file C:/Users/bigba/AppData/Roaming/Local/run/Yy7uZ6X_j/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 11 08:18:04.998744 2022] [mpm_winnt:notice] [pid 4664:tid 700] AH00455: Apache/2.4.43 (Win32) configured -- resuming normal operations
+[Fri Mar 11 08:18:04.998744 2022] [mpm_winnt:notice] [pid 4664:tid 700] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Mar 11 08:18:04.998744 2022] [core:notice] [pid 4664:tid 700] AH00094: Command line: 'C:\\Users\\bigba\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/bigba/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\bigba\\AppData\\Roaming\\Local\\run\\Yy7uZ6X_j\\conf\\apache\\apache2.conf'
+[Fri Mar 11 08:18:05.001739 2022] [mpm_winnt:notice] [pid 4664:tid 700] AH00418: Parent: Created child process 11568
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::3c84:7d67:a782:e2ee. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::3c84:7d67:a782:e2ee. Set the 'ServerName' directive globally to suppress this message
+[Fri Mar 11 08:18:07.359433 2022] [mpm_winnt:notice] [pid 11568:tid 732] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 11 08:24:37.992831 2022] [mpm_winnt:crit] [pid 11568:tid 732] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Mar 11 08:24:37.992831 2022] [mpm_winnt:warn] [pid 11568:tid 456] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Mar 11 08:24:37.992831 2022] [mpm_winnt:warn] [pid 11568:tid 1496] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Mar 11 08:24:40.004742 2022] [mpm_winnt:notice] [pid 11568:tid 732] AH00364: Child: All worker threads have exited.
+[Fri Mar 11 19:07:23.409344 2022] [core:warn] [pid 9472:tid 444] AH00098: pid file C:/Users/bigba/AppData/Roaming/Local/run/Yy7uZ6X_j/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 11 19:07:23.412336 2022] [mpm_winnt:notice] [pid 9472:tid 444] AH00455: Apache/2.4.43 (Win32) configured -- resuming normal operations
+[Fri Mar 11 19:07:23.412336 2022] [mpm_winnt:notice] [pid 9472:tid 444] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Mar 11 19:07:23.412336 2022] [core:notice] [pid 9472:tid 444] AH00094: Command line: 'C:\\Users\\bigba\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/bigba/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\bigba\\AppData\\Roaming\\Local\\run\\Yy7uZ6X_j\\conf\\apache\\apache2.conf'
+[Fri Mar 11 19:07:23.415329 2022] [mpm_winnt:notice] [pid 9472:tid 444] AH00418: Parent: Created child process 19620
+[Fri Mar 11 19:07:24.184271 2022] [mpm_winnt:notice] [pid 19620:tid 736] AH00354: Child: Starting 64 worker threads.
