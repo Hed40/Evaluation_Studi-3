@@ -1,2 +1,49 @@
 [2022-03-16 16:53:09 : INFO] - Cannot copy from uploaded file 
 [2022-03-16 16:53:09 : INFO] - Re_Smush_It_Task server status: Offline 
+[2022-03-16 18:08:27 : INFO] - Re_Smush_It_Task with attachment ID : 1229, autocreated on : March 16, 2022 06:08:27 
+[2022-03-16 18:13:47 : INFO] - 
+ 
+[2022-03-16 18:13:47 : INFO] - Header for logs at time:  Wed, 16 Mar 2022 18:13:47 +0000 on http://trip-trip.local 
+[2022-03-16 18:13:47 : INFO] - WP: 5.9.2 
+[2022-03-16 18:13:47 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT HED 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-16 18:13:47 : INFO] - MySQL: 8.0.16 
+[2022-03-16 18:13:47 : INFO] - WPLANG: fr_FR 
+[2022-03-16 18:13:47 : INFO] - Server: Apache/2.4.43 (Win32) 
+[2022-03-16 18:13:47 : INFO] - Outbound connections: N 
+[2022-03-16 18:13:47 : INFO] - safe_mode: 0 
+[2022-03-16 18:13:47 : INFO] - max_execution_time: 1200 
+[2022-03-16 18:13:47 : INFO] - memory_limit: 256M (used: 19.1M | 2M) 
+[2022-03-16 18:13:47 : INFO] - multisite: N 
+[2022-03-16 18:13:47 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-16 18:13:47 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-03-16 18:13:47 : DEBUG] - Lock option (updraft_lock_smush, Studi_options) was created in the database 
+[2022-03-16 18:13:47 : INFO] - Lock (updraft_lock_smush, Studi_options) acquired after initialising the database 
+[2022-03-16 18:13:47 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-03-16 18:13:47 : INFO] - Re_Smush_It_Task with attachment ID : 1229, autocreated on : March 16, 2022 06:08:27 
+[2022-03-16 18:13:47 : INFO] - 90 
+[2022-03-16 18:13:47 : INFO] - Task with ID 1 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-03-16 18:13:47 : INFO] - Re_Smush_It_Task with attachment ID : 1229, autocreated on : March 16, 2022 06:08:27 
+[2022-03-16 18:13:47 : INFO] - 90 
+[2022-03-16 18:13:47 : INFO] - Task with ID 1 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-03-16 18:13:47 : INFO] - Re_Smush_It_Task with attachment ID : 1229, autocreated on : March 16, 2022 06:08:27 
+[2022-03-16 18:13:47 : INFO] - 90 
+[2022-03-16 18:13:47 : INFO] - Task with ID 1 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-03-16 18:13:47 : INFO] - Lock option (updraft_lock_smush, Studi_options) released 
+[2022-03-16 18:13:47 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-03-16 18:13:47 : INFO] - Lock option (updraft_lock_smush, Studi_options) was deleted from the database 
+[2022-03-16 18:13:47 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-03-16 18:35:21 : INFO] - 
+ 
+[2022-03-16 18:35:21 : INFO] - Header for logs at time:  Wed, 16 Mar 2022 18:35:21 +0000 on http://trip-trip.local 
+[2022-03-16 18:35:21 : INFO] - WP: 5.9.2 
+[2022-03-16 18:35:21 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT HED 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-16 18:35:21 : INFO] - MySQL: 8.0.16 
+[2022-03-16 18:35:21 : INFO] - WPLANG: fr_FR 
+[2022-03-16 18:35:21 : INFO] - Server: Apache/2.4.43 (Win32) 
+[2022-03-16 18:35:21 : INFO] - Outbound connections: N 
+[2022-03-16 18:35:21 : INFO] - safe_mode: 0 
+[2022-03-16 18:35:21 : INFO] - max_execution_time: 1200 
+[2022-03-16 18:35:21 : INFO] - memory_limit: 256M (used: 19.1M | 2M) 
+[2022-03-16 18:35:21 : INFO] - multisite: N 
+[2022-03-16 18:35:21 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-16 18:35:21 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
