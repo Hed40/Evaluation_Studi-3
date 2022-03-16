@@ -14647,3 +14647,13 @@ Stack trace:
 				PRIMARY KEY  (`order_id`, `product_id`)
 			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
 			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:54:28 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
