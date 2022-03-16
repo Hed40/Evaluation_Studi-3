@@ -1,0 +1,343 @@
+0000.000 (0) Opened log file at time: Wed, 16 Mar 2022 15:46:55 +0000 on http://trip-trip.local
+0000.013 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.11 WP: 5.9.2 PHP: 7.4.1 (cgi-fcgi, Windows NT HED 10.0 build 22000 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: Apache/2.4.43 (Win32) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.2M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.021 (0) Free space on disk containing Updraft's temporary directory: 91209.7 MB
+0000.036 (0) Tasks: Backup files: 0 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.056 (0) Requesting semaphore lock (d) (apparently not via scheduler)
+0000.090 (0) Set semaphore last lock (d) time to 2022-03-16 15:46:55
+0000.098 (0) Semaphore lock (d) complete
+0000.122 (0) Backup run: resumption=0, nonce=21070253f21c, file_nonce=21070253f21c begun at=1647445615 (1s ago), job type=backup
+0000.138 (0) Scheduling a resumption (1) after 300 seconds (1647445916) in case this run gets aborted
+0000.162 (0) This backup run is not intended for files - skipping
+0000.172 (0) Beginning creation of database dump (WordPress DB)
+0000.180 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0000.238 (0) Table studi_actionscheduler_actions: Total expected rows (via COUNT): 0
+0000.253 (0) Table studi_actionscheduler_actions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1563) in 0.03 seconds
+0000.297 (0) Table studi_actionscheduler_actions: finishing file(s) (2, 0.5 KB)
+0000.319 (0) Table studi_actionscheduler_claims: Total expected rows (via COUNT): 0
+0000.331 (0) Table studi_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.01 seconds
+0000.360 (0) Table studi_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0000.380 (0) Table studi_actionscheduler_groups: Total expected rows (via COUNT): 0
+0000.393 (0) Table studi_actionscheduler_groups: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.02 seconds
+0000.422 (0) Table studi_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0000.443 (0) Table studi_actionscheduler_logs: Total expected rows (via COUNT): 0
+0000.456 (0) Table studi_actionscheduler_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.02 seconds
+0000.485 (0) Table studi_actionscheduler_logs: finishing file(s) (2, 0.4 KB)
+0000.515 (0) Table studi_commentmeta: Total expected rows (via COUNT): 0
+0000.532 (0) Table studi_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=703) in 0.03 seconds
+0000.567 (0) Table studi_commentmeta: finishing file(s) (2, 0.4 KB)
+0000.587 (0) Table studi_comments: Total expected rows (via COUNT): 0
+0000.605 (0) Table studi_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1787) in 0.02 seconds
+0000.634 (0) Table studi_comments: finishing file(s) (2, 0.5 KB)
+0000.658 (0) Table studi_e_submissions: Total expected rows (via COUNT): 8
+0000.666 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0000.686 (0) Table studi_e_submissions: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=5842) in 0.03 seconds
+0000.715 (0) Table studi_e_submissions: finishing file(s) (2, 1.5 KB)
+0000.738 (0) Table studi_e_submissions_actions_log: Total expected rows (via COUNT): 8
+0000.746 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0000.756 (0) Table studi_e_submissions_actions_log: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=2427) in 0.02 seconds
+0000.783 (0) Table studi_e_submissions_actions_log: finishing file(s) (2, 0.7 KB)
+0000.819 (0) Table studi_e_submissions_values: Total expected rows (via COUNT): 27
+0000.827 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0000.843 (0) Table studi_e_submissions_values: Rows added in this batch (next record: 27): 27 (uncompressed bytes in this segment=1734) in 0.04 seconds
+0000.876 (0) Table studi_e_submissions_values: finishing file(s) (2, 0.7 KB)
+0000.897 (0) Table studi_links: Total expected rows (via COUNT): 0
+0000.918 (0) Table studi_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1328) in 0.02 seconds
+0000.949 (0) Table studi_links: finishing file(s) (2, 0.5 KB)
+0001.005 (0) Table studi_options: Total expected rows (via COUNT): 524
+0001.053 (0) Table studi_options: Rows added in this batch (next record: 2662): 520 (uncompressed bytes in this segment=1291478) in 0.08 seconds
+0001.088 (0) Table studi_options: finishing file(s) (2, 224.9 KB)
+0001.156 (0) Table studi_postmeta: Total expected rows (approximate): 5117
+0001.256 (0) Table studi_postmeta: Rows added in this batch (next record: 8516): 2118 (uncompressed bytes in this segment=2695526) in 0.14 seconds
+0001.295 (0) Table studi_postmeta: finishing file(s) (2, 286.2 KB)
+0001.328 (0) Table studi_posts: Total expected rows (via COUNT): 310
+0001.336 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0001.403 (0) Table studi_posts: Rows added in this batch (next record: 1155): 310 (uncompressed bytes in this segment=873671) in 0.09 seconds
+0001.445 (0) Table studi_posts: finishing file(s) (2, 65.3 KB)
+0001.466 (0) Table studi_term_relationships: Total expected rows (approximate): 162
+0001.483 (0) Table studi_term_relationships: Rows added in this batch (next record: 1000): 187 (uncompressed bytes in this segment=3462) in 0.02 seconds
+0001.508 (0) Table studi_term_relationships: finishing file(s) (2, 0.9 KB)
+0001.535 (0) Table studi_term_taxonomy: Total expected rows (via COUNT): 41
+0001.542 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0001.563 (0) Table studi_term_taxonomy: Rows added in this batch (next record: 41): 41 (uncompressed bytes in this segment=3107) in 0.04 seconds
+0001.606 (0) Table studi_term_taxonomy: finishing file(s) (2, 0.9 KB)
+0001.639 (0) Table studi_termmeta: Total expected rows (via COUNT): 0
+0001.654 (0) Table studi_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=676) in 0.03 seconds
+0001.690 (0) Table studi_termmeta: finishing file(s) (2, 0.4 KB)
+0001.713 (0) Table studi_terms: Total expected rows (via COUNT): 41
+0001.720 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0001.735 (0) Table studi_terms: Rows added in this batch (next record: 41): 41 (uncompressed bytes in this segment=2358) in 0.03 seconds
+0001.760 (0) Table studi_terms: finishing file(s) (2, 0.9 KB)
+0001.785 (0) Table studi_tm_taskmeta: Total expected rows (via COUNT): 0
+0001.799 (0) Table studi_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=676) in 0.02 seconds
+0001.830 (0) Table studi_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0001.850 (0) Table studi_tm_tasks: Total expected rows (via COUNT): 0
+0001.866 (0) Table studi_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=894) in 0.02 seconds
+0001.890 (0) Table studi_tm_tasks: finishing file(s) (2, 0.4 KB)
+0001.920 (0) Table studi_usermeta: Total expected rows (via COUNT): 55
+0001.928 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0001.947 (0) Table studi_usermeta: Rows added in this batch (next record: 64): 55 (uncompressed bytes in this segment=8350) in 0.04 seconds
+0001.998 (0) Table studi_usermeta: finishing file(s) (2, 3 KB)
+0002.018 (0) Table studi_users: Total expected rows (via COUNT): 2
+0002.026 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.045 (0) Table studi_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1599) in 0.03 seconds
+0002.069 (0) Table studi_users: finishing file(s) (2, 0.7 KB)
+0002.096 (0) Table studi_wc_admin_note_actions: Total expected rows (via COUNT): 39
+0002.106 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.126 (0) Table studi_wc_admin_note_actions: Rows added in this batch (next record: 144): 39 (uncompressed bytes in this segment=7022) in 0.04 seconds
+0002.159 (0) Table studi_wc_admin_note_actions: finishing file(s) (2, 1.7 KB)
+0002.189 (0) Table studi_wc_admin_notes: Total expected rows (via COUNT): 35
+0002.196 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.207 (0) Table studi_wc_admin_notes: Rows added in this batch (next record: 35): 35 (uncompressed bytes in this segment=18271) in 0.03 seconds
+0002.242 (0) Table studi_wc_admin_notes: finishing file(s) (2, 4.7 KB)
+0002.258 (0) Table studi_wc_category_lookup: Total expected rows (approximate): 0
+0002.274 (0) Table studi_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=610) in 0.02 seconds
+0002.301 (0) Table studi_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0002.318 (0) Table studi_wc_customer_lookup: Total expected rows (via COUNT): 0
+0002.326 (0) Table studi_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1284) in 0.01 seconds
+0002.354 (0) Table studi_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0002.372 (0) Table studi_wc_download_log: Total expected rows (via COUNT): 0
+0002.380 (0) Table studi_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=950) in 0.01 seconds
+0002.405 (0) Table studi_wc_download_log: finishing file(s) (2, 0.5 KB)
+0002.423 (0) Table studi_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0002.433 (0) Table studi_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=735) in 0.01 seconds
+0002.458 (0) Table studi_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0002.475 (0) Table studi_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0002.483 (0) Table studi_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1245) in 0.01 seconds
+0002.515 (0) Table studi_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0002.536 (0) Table studi_wc_order_stats: Total expected rows (via COUNT): 0
+0002.544 (0) Table studi_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1140) in 0.01 seconds
+0002.567 (0) Table studi_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0002.585 (0) Table studi_wc_order_tax_lookup: Total expected rows (approximate): 0
+0002.593 (0) Table studi_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=817) in 0.01 seconds
+0002.620 (0) Table studi_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0002.637 (0) Table studi_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0002.645 (0) Table studi_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=879) in 0.01 seconds
+0002.670 (0) Table studi_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0002.701 (0) Table studi_wc_product_meta_lookup: Total expected rows (via COUNT): 0
+0002.709 (0) Table studi_wc_product_meta_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1379) in 0.01 seconds
+0002.732 (0) Table studi_wc_product_meta_lookup: finishing file(s) (2, 0.5 KB)
+0002.750 (0) Table studi_wc_rate_limits: Total expected rows (via COUNT): 0
+0002.757 (0) Table studi_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.01 seconds
+0002.780 (0) Table studi_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0002.800 (0) Table studi_wc_reserved_stock: Total expected rows (approximate): 0
+0002.808 (0) Table studi_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=683) in 0.01 seconds
+0002.831 (0) Table studi_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0002.848 (0) Table studi_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0002.855 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0002.870 (0) Table studi_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=833) in 0.02 seconds
+0002.894 (0) Table studi_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0002.911 (0) Table studi_wc_webhooks: Total expected rows (via COUNT): 0
+0002.926 (0) Table studi_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1248) in 0.02 seconds
+0002.949 (0) Table studi_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0002.981 (0) Table studi_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0002.988 (0) Table studi_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1064) in 0.02 seconds
+0003.018 (0) Table studi_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0003.035 (0) Table studi_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0003.043 (0) Table studi_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=979) in 0.01 seconds
+0003.067 (0) Table studi_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0003.085 (0) Table studi_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0003.093 (0) Table studi_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1556) in 0.01 seconds
+0003.120 (0) Table studi_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0003.145 (0) Table studi_woocommerce_log: Total expected rows (via COUNT): 0
+0003.153 (0) Table studi_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=740) in 0.02 seconds
+0003.184 (0) Table studi_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0003.211 (0) Table studi_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0003.224 (0) Table studi_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=789) in 0.03 seconds
+0003.257 (0) Table studi_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0003.277 (0) Table studi_woocommerce_order_items: Total expected rows (via COUNT): 0
+0003.291 (0) Table studi_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.02 seconds
+0003.314 (0) Table studi_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0003.339 (0) Table studi_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0003.353 (0) Table studi_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=816) in 0.02 seconds
+0003.383 (0) Table studi_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0003.401 (0) Table studi_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0003.416 (0) Table studi_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=859) in 0.02 seconds
+0003.439 (0) Table studi_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0003.463 (0) Table studi_woocommerce_sessions: Total expected rows (via COUNT): 1
+0003.470 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.485 (0) Table studi_woocommerce_sessions: Rows added in this batch (next record: 5): 1 (uncompressed bytes in this segment=2187) in 0.03 seconds
+0003.517 (0) Table studi_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0003.535 (0) Table studi_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0003.549 (0) Table studi_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=892) in 0.02 seconds
+0003.572 (0) Table studi_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0003.589 (0) Table studi_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0003.596 (0) Table studi_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=793) in 0.01 seconds
+0003.620 (0) Table studi_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0003.638 (0) Table studi_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0003.648 (0) Table studi_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=651) in 0.01 seconds
+0003.672 (0) Table studi_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0003.689 (0) Table studi_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0003.697 (0) Table studi_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=866) in 0.01 seconds
+0003.720 (0) Table studi_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0003.738 (0) Table studi_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0003.746 (0) Table studi_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1319) in 0.01 seconds
+0003.772 (0) Table studi_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0003.801 (0) Table studi_yoast_indexable: Total expected rows (via COUNT): 37
+0003.808 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.835 (0) Table studi_yoast_indexable: Rows added in this batch (next record: 38): 37 (uncompressed bytes in this segment=20137) in 0.05 seconds
+0003.865 (0) Table studi_yoast_indexable: finishing file(s) (2, 3.2 KB)
+0003.882 (0) Table studi_yoast_indexable_hierarchy: Total expected rows (approximate): 0
+0003.896 (0) Table studi_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 30 (uncompressed bytes in this segment=1297) in 0.02 seconds
+0003.919 (0) Table studi_yoast_indexable_hierarchy: finishing file(s) (2, 0.5 KB)
+0003.936 (0) Table studi_yoast_migrations: Total expected rows (via COUNT): 23
+0003.943 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.957 (0) Table studi_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1267) in 0.02 seconds
+0003.984 (0) Table studi_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0004.001 (0) Table studi_yoast_primary_term: Total expected rows (via COUNT): 0
+0004.015 (0) Table studi_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=876) in 0.02 seconds
+0004.039 (0) Table studi_yoast_primary_term: finishing file(s) (2, 0.5 KB)
+0004.059 (0) Table studi_yoast_seo_links: Total expected rows (via COUNT): 20
+0004.067 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0004.082 (0) Table studi_yoast_seo_links: Rows added in this batch (next record: 40): 20 (uncompressed bytes in this segment=2897) in 0.02 seconds
+0004.106 (0) Table studi_yoast_seo_links: finishing file(s) (2, 0.7 KB)
+0004.113 (0) Skipping table (lacks our prefix (Studi_)): wp_commentmeta
+0004.120 (0) Skipping table (lacks our prefix (Studi_)): wp_comments
+0004.128 (0) Skipping table (lacks our prefix (Studi_)): wp_e_submissions
+0004.136 (0) Skipping table (lacks our prefix (Studi_)): wp_e_submissions_actions_log
+0004.143 (0) Skipping table (lacks our prefix (Studi_)): wp_e_submissions_values
+0004.150 (0) Skipping table (lacks our prefix (Studi_)): wp_links
+0004.157 (0) Skipping table (lacks our prefix (Studi_)): wp_options
+0004.164 (0) Skipping table (lacks our prefix (Studi_)): wp_postmeta
+0004.171 (0) Skipping table (lacks our prefix (Studi_)): wp_posts
+0004.178 (0) Skipping table (lacks our prefix (Studi_)): wp_term_relationships
+0004.185 (0) Skipping table (lacks our prefix (Studi_)): wp_term_taxonomy
+0004.192 (0) Skipping table (lacks our prefix (Studi_)): wp_termmeta
+0004.199 (0) Skipping table (lacks our prefix (Studi_)): wp_terms
+0004.207 (0) Skipping table (lacks our prefix (Studi_)): wp_usermeta
+0004.214 (0) Skipping table (lacks our prefix (Studi_)): wp_users
+0004.223 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_actionscheduler_actions.table.tmpr0.gz (1/70/fopen): adding to final database dump
+0004.230 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_actionscheduler_actions.table.gz (2/70/fopen): adding to final database dump
+0004.237 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_actionscheduler_claims.table.tmpr0.gz (3/70/fopen): adding to final database dump
+0004.244 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_actionscheduler_claims.table.gz (4/70/fopen): adding to final database dump
+0004.251 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_actionscheduler_groups.table.tmpr0.gz (5/70/fopen): adding to final database dump
+0004.258 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_actionscheduler_groups.table.gz (6/70/fopen): adding to final database dump
+0004.265 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_actionscheduler_logs.table.tmpr0.gz (7/70/fopen): adding to final database dump
+0004.273 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_actionscheduler_logs.table.gz (8/70/fopen): adding to final database dump
+0004.280 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_commentmeta.table.tmpr0.gz (9/70/fopen): adding to final database dump
+0004.287 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_commentmeta.table.gz (10/70/fopen): adding to final database dump
+0004.294 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_comments.table.tmpr0.gz (11/70/fopen): adding to final database dump
+0004.301 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_comments.table.gz (12/70/fopen): adding to final database dump
+0004.308 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_e_submissions.table.tmpr9.gz (13/70/fopen): adding to final database dump
+0004.315 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_e_submissions.table.gz (14/70/fopen): adding to final database dump
+0004.322 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_e_submissions_actions_log.table.tmpr9.gz (15/70/fopen): adding to final database dump
+0004.329 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_e_submissions_actions_log.table.gz (16/70/fopen): adding to final database dump
+0004.336 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_e_submissions_values.table.tmpr28.gz (17/70/fopen): adding to final database dump
+0004.344 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_e_submissions_values.table.gz (18/70/fopen): adding to final database dump
+0004.351 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_links.table.tmpr0.gz (19/70/fopen): adding to final database dump
+0004.357 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_links.table.gz (20/70/fopen): adding to final database dump
+0004.364 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_options.table.tmpr2663.gz (21/70/fopen): adding to final database dump
+0004.378 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_options.table.gz (22/70/fopen): adding to final database dump
+0004.385 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_postmeta.table.tmpr8517.gz (23/70/fopen): adding to final database dump
+0004.400 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_postmeta.table.gz (24/70/fopen): adding to final database dump
+0004.407 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_posts.table.tmpr1156.gz (25/70/fopen): adding to final database dump
+0004.417 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_posts.table.gz (26/70/fopen): adding to final database dump
+0004.424 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_term_relationships.table.tmpr1001.gz (27/70/fopen): adding to final database dump
+0004.431 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_term_relationships.table.gz (28/70/fopen): adding to final database dump
+0004.437 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_term_taxonomy.table.tmpr42.gz (29/70/fopen): adding to final database dump
+0004.444 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_term_taxonomy.table.gz (30/70/fopen): adding to final database dump
+0004.451 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_termmeta.table.tmpr0.gz (31/70/fopen): adding to final database dump
+0004.458 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_termmeta.table.gz (32/70/fopen): adding to final database dump
+0004.465 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_terms.table.tmpr42.gz (33/70/fopen): adding to final database dump
+0004.471 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_terms.table.gz (34/70/fopen): adding to final database dump
+0004.478 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_tm_taskmeta.table.tmpr0.gz (35/70/fopen): adding to final database dump
+0004.485 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_tm_taskmeta.table.gz (36/70/fopen): adding to final database dump
+0004.494 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_tm_tasks.table.tmpr0.gz (37/70/fopen): adding to final database dump
+0004.501 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_tm_tasks.table.gz (38/70/fopen): adding to final database dump
+0004.508 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_usermeta.table.tmpr65.gz (39/70/fopen): adding to final database dump
+0004.515 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_usermeta.table.gz (40/70/fopen): adding to final database dump
+0004.522 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_users.table.tmpr3.gz (41/70/fopen): adding to final database dump
+0004.529 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_users.table.gz (42/70/fopen): adding to final database dump
+0004.535 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_admin_note_actions.table.tmpr145.gz (43/70/fopen): adding to final database dump
+0004.543 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_admin_note_actions.table.gz (44/70/fopen): adding to final database dump
+0004.550 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_admin_notes.table.tmpr36.gz (45/70/fopen): adding to final database dump
+0004.557 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_admin_notes.table.gz (46/70/fopen): adding to final database dump
+0004.563 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_category_lookup.table.tmpr1001.gz (47/70/fopen): adding to final database dump
+0004.570 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_category_lookup.table.gz (48/70/fopen): adding to final database dump
+0004.580 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_customer_lookup.table.tmpr0.gz (49/70/fopen): adding to final database dump
+0004.588 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_customer_lookup.table.gz (50/70/fopen): adding to final database dump
+0004.594 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_download_log.table.tmpr0.gz (51/70/fopen): adding to final database dump
+0004.602 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_download_log.table.gz (52/70/fopen): adding to final database dump
+0004.608 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_order_coupon_lookup.table.tmpr1.gz (53/70/fopen): adding to final database dump
+0004.619 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_order_coupon_lookup.table.gz (54/70/fopen): adding to final database dump
+0004.625 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_order_product_lookup.table.tmpr0.gz (55/70/fopen): adding to final database dump
+0004.633 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_order_product_lookup.table.gz (56/70/fopen): adding to final database dump
+0004.640 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_order_stats.table.tmpr0.gz (57/70/fopen): adding to final database dump
+0004.649 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_order_stats.table.gz (58/70/fopen): adding to final database dump
+0004.656 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_order_tax_lookup.table.tmpr1.gz (59/70/fopen): adding to final database dump
+0004.663 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_order_tax_lookup.table.gz (60/70/fopen): adding to final database dump
+0004.670 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_product_attributes_lookup.table.tmpr1.gz (61/70/fopen): adding to final database dump
+0004.677 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_product_attributes_lookup.table.gz (62/70/fopen): adding to final database dump
+0004.684 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_product_meta_lookup.table.tmpr0.gz (63/70/fopen): adding to final database dump
+0004.691 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_product_meta_lookup.table.gz (64/70/fopen): adding to final database dump
+0004.698 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_rate_limits.table.tmpr0.gz (65/70/fopen): adding to final database dump
+0004.705 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_rate_limits.table.gz (66/70/fopen): adding to final database dump
+0004.712 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_reserved_stock.table.tmpr1.gz (67/70/fopen): adding to final database dump
+0004.719 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_reserved_stock.table.gz (68/70/fopen): adding to final database dump
+0004.726 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_tax_rate_classes.table.tmpr3.gz (69/70/fopen): adding to final database dump
+0004.733 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_tax_rate_classes.table.gz (70/70/fopen): adding to final database dump
+0004.740 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_webhooks.table.tmpr0.gz (71/70/fopen): adding to final database dump
+0004.746 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_wc_webhooks.table.gz (72/70/fopen): adding to final database dump
+0004.753 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_api_keys.table.tmpr0.gz (73/70/fopen): adding to final database dump
+0004.761 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_api_keys.table.gz (74/70/fopen): adding to final database dump
+0004.768 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_attribute_taxonomies.table.tmpr0.gz (75/70/fopen): adding to final database dump
+0004.775 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_attribute_taxonomies.table.gz (76/70/fopen): adding to final database dump
+0004.782 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_downloadable_product_permissions.table.tmpr0.gz (77/70/fopen): adding to final database dump
+0004.789 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_downloadable_product_permissions.table.gz (78/70/fopen): adding to final database dump
+0004.795 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_log.table.tmpr0.gz (79/70/fopen): adding to final database dump
+0004.803 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_log.table.gz (80/70/fopen): adding to final database dump
+0004.809 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_order_itemmeta.table.tmpr0.gz (81/70/fopen): adding to final database dump
+0004.818 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_order_itemmeta.table.gz (82/70/fopen): adding to final database dump
+0004.825 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_order_items.table.tmpr0.gz (83/70/fopen): adding to final database dump
+0004.834 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_order_items.table.gz (84/70/fopen): adding to final database dump
+0004.841 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_payment_tokenmeta.table.tmpr0.gz (85/70/fopen): adding to final database dump
+0004.851 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_payment_tokenmeta.table.gz (86/70/fopen): adding to final database dump
+0004.857 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_payment_tokens.table.tmpr0.gz (87/70/fopen): adding to final database dump
+0004.864 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_payment_tokens.table.gz (88/70/fopen): adding to final database dump
+0004.871 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_sessions.table.tmpr6.gz (89/70/fopen): adding to final database dump
+0004.878 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_sessions.table.gz (90/70/fopen): adding to final database dump
+0004.885 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_shipping_zone_locations.table.tmpr0.gz (91/70/fopen): adding to final database dump
+0004.892 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_shipping_zone_locations.table.gz (92/70/fopen): adding to final database dump
+0004.899 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_shipping_zone_methods.table.tmpr0.gz (93/70/fopen): adding to final database dump
+0004.906 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_shipping_zone_methods.table.gz (94/70/fopen): adding to final database dump
+0004.913 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_shipping_zones.table.tmpr0.gz (95/70/fopen): adding to final database dump
+0004.919 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_shipping_zones.table.gz (96/70/fopen): adding to final database dump
+0004.926 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_tax_rate_locations.table.tmpr0.gz (97/70/fopen): adding to final database dump
+0004.933 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_tax_rate_locations.table.gz (98/70/fopen): adding to final database dump
+0004.940 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_tax_rates.table.tmpr0.gz (99/70/fopen): adding to final database dump
+0004.953 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_woocommerce_tax_rates.table.gz (100/70/fopen): adding to final database dump
+0004.959 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_indexable.table.tmpr39.gz (101/70/fopen): adding to final database dump
+0004.966 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_indexable.table.gz (102/70/fopen): adding to final database dump
+0004.974 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_indexable_hierarchy.table.tmpr1001.gz (103/70/fopen): adding to final database dump
+0004.985 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_indexable_hierarchy.table.gz (104/70/fopen): adding to final database dump
+0004.992 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_migrations.table.tmpr24.gz (105/70/fopen): adding to final database dump
+0004.999 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_migrations.table.gz (106/70/fopen): adding to final database dump
+0005.005 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_primary_term.table.tmpr0.gz (107/70/fopen): adding to final database dump
+0005.012 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_primary_term.table.gz (108/70/fopen): adding to final database dump
+0005.022 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_seo_links.table.tmpr41.gz (109/70/fopen): adding to final database dump
+0005.029 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db-table-studi_yoast_seo_links.table.gz (110/70/fopen): adding to final database dump
+0005.057 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db.gz: finished writing out complete database file (613.4 KB)
+0005.106 (0) Total database tables backed up: 55 (backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db.gz, size: 628268, sha1: f435efa48c86bd3cfd3467c23919580feaa14a33, sha256: c6315fd370cd56c99f7de863bc6b9a8b960283cd15d16ebffc6eace13da25dee)
+0005.138 (0) backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0005.144 (0) Saving backup history. Total backup size: 613.5 KB
+0005.159 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0005.184 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0005.191 (0) No remote despatch: user chose no remote backup service
+0005.200 (0) Recording as successfully uploaded: backup_2022-03-16-1646_Trip_amp_Trip_21070253f21c-db.gz
+0005.222 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0005.229 (0) Number of backup sets in history: 2; groups (db): 1
+0005.237 (0) Examining (for databases) backup set with group_id=0, nonce=21070253f21c, datestamp=1647445615 (Mar 16 2022 15:46:55)
+0005.243 (0) This backup set is the backup set just made, so will not be deleted.
+0005.243 (0) Examining (for databases) backup set with group_id=0, nonce=fdcbbe92853c, datestamp=1647419713 (Mar 16 2022 08:35:13)
+0005.244 (0) This backup set (1647419713) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0005.244 (0) Number of backup sets in history: 2; groups (files): 1
+0005.250 (0) Examining (for files) backup set with nonce=21070253f21c, datestamp=1647445615 (Mar 16 2022 15:46:55)
+0005.250 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0005.257 (0) Examining (for files) backup set with nonce=fdcbbe92853c, datestamp=1647419713 (Mar 16 2022 08:35:13)
+0005.257 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0005.257 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0005.271 (0) Resume backup (21070253f21c, 0): finish run
+0005.291 (0) Decremented the semaphore (d) by 1
+0005.304 (0) Semaphore (d) unlocked
+0005.311 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0005.335 (0) No email will/can be sent - the user has not configured an email address.
+0005.342 (0) The backup apparently succeeded and is now complete
