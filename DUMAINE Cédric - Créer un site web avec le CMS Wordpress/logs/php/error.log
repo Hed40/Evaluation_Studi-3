@@ -14657,3 +14657,1323 @@ Stack trace:
 				PRIMARY KEY  (`order_id`, `product_id`)
 			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
 			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:54:45 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:55:00 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:55:03 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:55:04 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:55:16 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:55:33 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:55:41 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:55:45 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:56:03 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:56:04 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:56:12 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:56:18 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:56:22 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:56:26 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:56:29 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:06 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:09 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:09 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:10 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:10 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:11 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:11 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:12 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:13 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:13 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:14 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:14 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:15 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:15 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:16 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:17 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:17 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:18 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:18 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:19 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:19 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:20 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:21 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:21 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:22 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:22 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:23 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:23 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:24 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:25 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:25 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:26 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:57:26 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:03 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:07 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:08 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:16 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:26 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:31 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:35 UTC] WordPress database error Table 'studi_wc_reserved_stock' already exists for query 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:36 UTC] WordPress database error Table 'studi_wc_reserved_stock' already exists for query 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:39 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:41 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:46 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:54 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:55 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:57 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 17:59:59 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:02 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:02 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:07 UTC] WordPress database error Table 'studi_wc_reserved_stock' already exists for query 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:13 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:16 UTC] WordPress database error Table 'studi_wc_reserved_stock' already exists for query 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:23 UTC] WordPress database error Table 'studi_wc_reserved_stock' already exists for query 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:23 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:25 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:30 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:31 UTC] WordPress database error Table 'studi_wc_reserved_stock' already exists for query 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:34 UTC] WordPress database error Table 'studi_wc_reserved_stock' already exists for query 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:34 UTC] WordPress database error Table 'studi_wc_reserved_stock' already exists for query 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:46 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:47 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:00:56 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:01 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:02 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:11 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:16 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:17 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:25 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:31 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:32 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:41 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:42 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:43 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:46 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:47 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:48 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:51 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:01:53 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:01 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:02 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:03 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:06 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:12 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:13 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:14 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:20 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:21 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:24 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:24 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:28 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:36 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:37 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:39 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:51 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:53 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:02:54 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:05 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:06 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:07 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:18 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:21 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:22 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:25 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:32 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:35 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:37 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:37 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:38 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:39 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:42 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:51 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:03:53 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:04:07 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:04:07 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:04:08 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
+[16-Mar-2022 18:04:09 UTC] Erreur de la base de données WordPress : Table 'studi_wc_reserved_stock' already exists pour la requête 
+			CREATE TABLE Studi_wc_reserved_stock (
+				`order_id` bigint(20) NOT NULL,
+				`product_id` bigint(20) NOT NULL,
+				`stock_quantity` double NOT NULL DEFAULT 0,
+				`timestamp` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				`expires` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+				PRIMARY KEY  (`order_id`, `product_id`)
+			) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci;
+			 faite par require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Installer->install, Automattic\WooCommerce\Blocks\Installer->maybe_create_tables, Automattic\WooCommerce\Blocks\Installer->maybe_create_table
